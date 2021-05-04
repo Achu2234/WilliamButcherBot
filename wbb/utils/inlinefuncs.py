@@ -98,7 +98,7 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[William✨](https://github.com/thehamkercat/WilliamButcherBot):**
+**[Achubiju✨](https://t.me/Amalbiju154):**
 **MainBot:** `{bot_state}`
 **UserBot:** `{ubot_state}`
 **Python:** `{pyver.split()[0]}`
@@ -111,7 +111,7 @@ async def alive_function(answers):
         InlineQueryResultArticle(
             title='Alive',
             description="Check Bot's Stats",
-            thumb_url="https://static2.aniimg.com/upload/20170515/414/c/d/7/cd7EEF.jpg",
+            thumb_url="https://telegra.ph/file/63f34269d6293f55f1798.jpg",
             input_message_content=InputTextMessageContent(
                 msg,
                 disable_web_page_preview=True
