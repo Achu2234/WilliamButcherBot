@@ -89,8 +89,8 @@ async def help_command(_, message):
                         url=f"t.me/{BOT_USERNAME}?start=help",
                     ),
                     InlineKeyboardButton(
-                        text="Repo 🛠",
-                        url="https://github.com/thehamkercat/WilliamButcherBot",
+                        text="Update channel",
+                        url="https://t.me/Animemusicarchive6",
                     )
                 ],
                 [
@@ -100,7 +100,7 @@ async def help_command(_, message):
                     ),
                     InlineKeyboardButton(
                         text="Support 👨",
-                        url="t.me/WBBSupport"
+                        url="https://t.me/Yeageristbots"
                     )
                 ]
             ]
@@ -115,8 +115,8 @@ async def help_command(_, message):
                     callback_data="bot_commands"
                 ),
                 InlineKeyboardButton(
-                    text="Repo 🛠",
-                    url="https://github.com/thehamkercat/WilliamButcherBot"
+                    text="Update channel",
+                    url="https://t.me/Animemusicarchive6"
                 )
             ],
             [
@@ -126,7 +126,7 @@ async def help_command(_, message):
                 ),
                 InlineKeyboardButton(
                     text="Support 👨",
-                    url="t.me/WBBSupport"
+                    url="https://t.me/Yeageristbots"
                 )
             ],
             [
